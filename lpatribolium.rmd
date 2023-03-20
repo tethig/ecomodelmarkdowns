@@ -10,7 +10,7 @@ https://github.com/objornstad/
 
 This Rmarkdown of the LPA tribolium was written by Ottar N. Bjørnstad and is released with a CC-BY-NC license for anyone to improve and re-share (acknowledging origin). Please email me a copy if you make an update (onb1 at psu dot edu).
 
-The app requires the shiny and sctterplot3d packages to be installed to run. 
+The app requires the shiny and scatterplot3d packages to be installed to run. 
 ```{r, echo=FALSE}
 using<-function(...) {
     libs<-unlist(list(...))
